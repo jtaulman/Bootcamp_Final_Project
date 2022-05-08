@@ -1,9 +1,8 @@
 # Bootcamp_Final_Project
 
-"Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" 
-- Jimmy Dugan 
+"Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" ~Jimmy Dugan 
 
-Sports Analysis: For the Final Project, my role is the Trangle shape. I will create a mockup of a machine learning model. I will be the presenter of the project, and oversee everyone work to then calaborate and put all the pieces together. This will be a diagram that will explain how it will work concurrently with the rest of the project steps. 
+Sports Analysis: For Our Final Project, my role is the Trangle shape. I will create a mockup of a machine learning model. I will be the presenter of the project, and oversee everyone work to then calaborate and put all the pieces together. This will be a diagram that will explain how it will work concurrently with the rest of the project steps. 
 
 Our Hypothesis: What Is The Hardest Pitch to Hit In Baseball? 
 
