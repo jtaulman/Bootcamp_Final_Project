@@ -4,7 +4,7 @@ For our final project, our group will be analyzing baseball data to better under
 - What is the hardest pitch to hit in baseball?
 - What is the probability of the batter hitting a single, double, triple, and homerun when the hardest pitch is thrown.
 
-My part is to use SQL with our filtered data to come to the conclusion of qhich pitch is the hardest to hit once our data is filtered.
+My part is to use SQL with our filtered data to come to the conclusion of which pitch is the hardest to hit once our data is filtered.
 
 
 ## Resources
