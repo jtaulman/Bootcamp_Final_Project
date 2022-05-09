@@ -22,7 +22,9 @@ Rachel will be focused on creating the final presentation along with being the p
 - Kaggle data
     - pitches.csv
     - atbats.csv
-- python
-- jupyter notebook
-- SQL
+- Python (version TBD)
+- Jupyter notebook (version TBD)
+- SQL (version TBD)
 - Machine Learning
+    - Supervised
+    - Linear Regression
