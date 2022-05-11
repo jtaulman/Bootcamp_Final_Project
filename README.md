@@ -1,6 +1,5 @@
 # Bootcamp_Final_Project
 
-"Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" ~Jimmy Dugan (Tom Hanks) 
 ## Question
 
 1. What is the hardest pitch to hit in baseball?
@@ -29,8 +28,3 @@ Rachel will be focused on creating the final presentation along with being the p
 - Machine Learning
     - Supervised
     - Linear Regression
-
-<img width="300" alt="baseball-on-pitchers-mound-600w-145679393" src="https://user-images.githubusercontent.com/95897182/167318589-e688f8ac-8a95-442a-be5d-4d47f43e7fa4.png"> 
-
-
-
