@@ -1,5 +1,6 @@
 # Bootcamp_Final_Project
 
+"Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" ~Jimmy Dugan (Tom Hanks) 
 ## Question
 
 1. What is the hardest pitch to hit in baseball?
