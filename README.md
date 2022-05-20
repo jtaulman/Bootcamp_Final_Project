@@ -1,5 +1,9 @@
 # Bootcamp_Final_Project
 
+## Reason for Topic
+
+The entire group had a common interest in sports and because of Spring Training and the movie Moneyball, we decided to focus on Baseball. From there we discussed different topics, but landed on this because it sparked the most curiosity for everyone. It was also an idea we all felt confident could be executed successfully.
+
 ## Question
 
 1. What is the hardest pitch to hit in baseball?
@@ -17,6 +21,10 @@ The goal is to expand on the model and predict doubles, triples and homeruns usi
 
 Rachel will be focused on creating the final presentation along with being the primary editor for all sections of code. As a group we will all look over and help to edit code, but she will be the primary editor.
 
+## Communication
+
+We will be using SLACK and class time to communicate throughout this project.
+
 ## Resources
 
 - Kaggle data
@@ -24,7 +32,8 @@ Rachel will be focused on creating the final presentation along with being the p
     - atbats.csv
 - Python (version TBD)
 - Jupyter notebook (version TBD)
-- SQL (version TBD)
+- SQLite (version TBD)
+- SQLAlchemy
 - Machine Learning
-    - Supervised
-    - Linear Regression
+    - Neural Network
+    - Softmax Activation Function
