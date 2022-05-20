@@ -30,9 +30,10 @@ Rachel will be focused on creating the final presentation along with being the p
     - atbats.csv
 - Python (version TBD)
 - Jupyter notebook (version TBD)
-- SQL (version TBD)
+- SQLite (version TBD)
+- SQLAlchemy
 - Machine Learning
-    - Supervised
-    - Linear Regression
+    - Neural Network
+    - Softmax Activation Function
 
 <img width="300" alt="baseball-on-pitchers-mound-600w-145679393" src="https://user-images.githubusercontent.com/95897182/167318589-e688f8ac-8a95-442a-be5d-4d47f43e7fa4.png">  
