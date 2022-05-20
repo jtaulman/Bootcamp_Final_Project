@@ -2,6 +2,10 @@
 
 "Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" ~Jimmy Dugan (Tom Hanks) 
 
+## Reason for Topic
+
+The entire group had a common interest in sports and because of Spring Training and the movie Moneyball, we decided to focus on Baseball. From there we discussed different topics, but landed on this because it sparked the most curiosity for everyone. It was also an idea we all felt confident could be executed successfully.
+
 ## Question
 
 1. What is the hardest pitch to hit in baseball?
