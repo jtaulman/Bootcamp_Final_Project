@@ -1,5 +1,6 @@
 # Bootcamp_Final_Project
 
+
 ## Reason for Topic
 
 The entire group had a common interest in sports and because of Spring Training and the movie Moneyball, we decided to focus on Baseball. From there we discussed different topics, but landed on this because it sparked the most curiosity for everyone. It was also an idea we all felt confident could be executed successfully.
@@ -36,4 +37,4 @@ We will be using SLACK and class time to communicate throughout this project.
 - SQLAlchemy
 - Machine Learning
     - Neural Network
-    - Softmax Activation Function
+
