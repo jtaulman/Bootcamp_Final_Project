@@ -1,6 +1,5 @@
 # Bootcamp_Final_Project
 
-"Are you crying? Are you crying? ARE YOU CRYING? There's no crying! THERE'S NO CRYING IN BASEBALL!" ~Jimmy Dugan (Tom Hanks) 
 
 ## Reason for Topic
 
@@ -23,6 +22,10 @@ The goal is to expand on the model and predict doubles, triples and homeruns usi
 
 Rachel will be focused on creating the final presentation along with being the primary editor for all sections of code. As a group we will all look over and help to edit code, but she will be the primary editor.
 
+## Communication
+
+We will be using SLACK and class time to communicate throughout this project.
+
 ## Resources
 
 - Kaggle data
@@ -34,6 +37,4 @@ Rachel will be focused on creating the final presentation along with being the p
 - SQLAlchemy
 - Machine Learning
     - Neural Network
-    - Softmax Activation Function
 
-<img width="300" alt="baseball-on-pitchers-mound-600w-145679393" src="https://user-images.githubusercontent.com/95897182/167318589-e688f8ac-8a95-442a-be5d-4d47f43e7fa4.png">  
