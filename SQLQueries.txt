@@ -1,0 +1,37 @@
+SELECT DISTINCT pitch_type, COUNT(filtered_atbats.event)
+-- pitches.ab_id,
+-- pitches.pitch_type,
+-- pitches.on_1b,
+-- pitches.on_2b,
+-- pitches.on_3b,
+-- filtered_atbats.event
+FROM pitches
+INNER JOIN filtered_atbats
+ON (pitches.ab_id = filtered_atbats.ab_id)
+GROUP BY pitch_type
+
+
+SELECT filtered_atbats.event,
+COUNT(filtered_atbats.event)
+FROM pitches
+INNER JOIN filtered_atbats
+ON (pitches.ab_id = filtered_atbats.ab_id)
+WHERE event = 'Home Run'
+OR event = 'Single'
+OR event = 'Double'
+OR event  = 'Triple'
+GROUP BY event
+
+
+SELECT DISTINCT (pitches.pitch_type),
+COUNT(filtered_atbats.event),
+filtered_atbats.event
+FROM pitches
+INNER JOIN filtered_atbats
+ON (pitches.ab_id = filtered_atbats.ab_id)
+WHERE event = 'Home Run'
+OR event = 'Single'
+OR event = 'Double'
+OR event  = 'Triple'
+GROUP BY event, pitch_type
+ORDER BY pitch_type
