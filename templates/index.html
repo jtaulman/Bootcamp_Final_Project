@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baseball</title>
+</head>
+
+<body>
+  <div class="container">
+    <!-- Add Jumbotron to Header -->
+    <div class="jumbotron text-center" style="background-image: url('https://wallpapers.com/images/high/baseball-near-the-home-plate-1yz5hfbiro3rrfsa.jpg'); background-position: center; background-size: cover;height: 1000px;">
+      <h1 style="font-size: 50px; color:white">Baseball Pitching and Hitting Data</h1>  
+    <form action="/predict" method="post">
+  <h2 style="font-family: 'Times New Roman', Times, serif; font-size: 45px; color:rgb(225, 222, 41)">Pick a Pitch Type</h2>
+<select name ="Pitches">
+<option value="pitch_typeab">AB</option>
+<option value="pitch_typech">Changeup</option>
+<option value="pitch_typecu">Curveball</option>
+<option value="pitch_typeep">Eephus</option>
+<option value="pitch_typefa">Fastball</option>
+<option value="pitch_typefc">Cutter</option>
+<option value="pitch_typeff">Four-seam Fastball</option>
+<option value="pitch_typefo">Pitchout</option>
+<option value="pitch_typefs">Splitter</option>
+<option value="pitch_typeft">Two-seam Fastball</option>
+<option value="pitch_typein">Intentional Ball</option>
+<option value="pitch_typekc">Knuckle Curve</option>
+<option value="pitch_typekn">Knuckleball</option>
+<option value="pitch_typepo">Pitchout</option>
+<option value="pitch_typesc">Screwball</option>
+<option value="pitch_typesi">Sinker</option>
+<option value="pitch_typesl">Slider</option>
+<option value="pitch_typeun">Unknown</option>
+</select>
+
+  <input type="submit" value="Submit"/>
+
+</form>
+{% if prediction_text %}
+    <h1>{{ prediction_text }}</h1>
+{% endif %}
+</body>
+</html>
