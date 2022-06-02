@@ -6,34 +6,35 @@
 
 The entire group had a common interest in sports and because of Spring Training and the movie Moneyball, we decided to focus on Baseball. From there we discussed different topics, but landed on this because it sparked the most curiosity for everyone. It was also an idea we all felt confident could be executed successfully.
 
-## Question
+## Questions
 
 1. What is the hardest pitch to hit in baseball?
 2. What are the odds of a batter hitting a single, double, triple or homerun off the hardest pitch?
 
 ## Project Plan
 
-Ridvan will be working on filtering the data using jupyter notebook and python. He will create a filtered csv file for our current data that will be used throughout the remainder of the project. 
+Ridvan worked on filtering the data using jupyter notebook and python. He created a filtered csv file for our current data that was used throughout the remainder of the project. Then, he helped with the remaining parts of the project.
 
-Bryce will be taking the filtered data and running the analysis through SQL to determine which type of pitch is the hardest to hit in baseball. Once the 1st of our project questions is answered the data will be filtered through a machine learning model.
+Bryce took the filtered data and running different queries to help determine which pitch is the hardest to hit. He also joined the filtered csv's to create our final csv/database. Once completed he helped oversee the remaining parts as needed.
 
-Jacob will write the code for the machine learning model. The model being used with be a linear regression model because it will do the best to predict the batting outcome. The input of this model would be the hardest pitch data, to predict the likelyhood of hitting a single.
+Jacob wrote the code for the machine learning model. The model is a SoftMax Activation model because it predicts each outcome as a probability. The model has an input of the final database and used train test split to finish building the model. Once it was built he used Flask to create a route within an index.html file. This website has a drop down menu with the pitches that when chosen reveal the probabilites as percentages. Once completed he also oversaw the remaining parts to help finish the project.
 
-The goal is to expand on the model and predict doubles, triples and homeruns using the machine learning model. The next part of the model to be expanded is to break the hardest pitch down by left and right handed pitchers or batters.
+The next part of the model to be expanded is to break the hardest pitch down by left and right handed pitchers or batters. It could also be expanded by incorporating speeds and locations for each pitch.
 
-Rachel will be focused on creating the final presentation along with being the primary editor for all sections of code. As a group we will all look over and help to edit code, but she will be the primary editor.
+Rachel focused on creating the final presentation along with being the primary editor for all sections of code. She created the visualizations in Tableau then copied them into our Google Slides. As a group we all looked over and edited the code, but she was the primary editor.
 
 ## Resources
 
 - Kaggle data
     - pitches.csv
     - atbats.csv
-- Python (version TBD)
-- Jupyter notebook (version TBD)
-- SQLite (version TBD)
-- SQLAlchemy
+- Python 3.10.4
+- Jupyter notebook 6.4.8
+- PG Admin
 - Machine Learning
     - Neural Network
     - Softmax Activation Function
+- Presentation
+    - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vQoT3b8JSm27uc4A9vdTjXPBae__w8-nMRh87K_-smiGp5KI0Z21isY-CCg4HJdTVlmWrItGx9Ll-0F/pub?start=true&loop=true&delayms=60000) to see Google Slides.
 
 <img width="300" alt="baseball-on-pitchers-mound-600w-145679393" src="https://user-images.githubusercontent.com/95897182/167318589-e688f8ac-8a95-442a-be5d-4d47f43e7fa4.png">  
